@@ -1,10 +1,19 @@
-# Welcome to GitHub Pages
+# Bode Lash's First CS193 Homework
+
+## List of my Favorite CS193 Things:
+
+- We only meet once a week!
+- Class ends at 7:20, which is right next to one of my clubs that meets at 7:30!
+- All of the work is asynchronous.
+- I can finally learn how to use github. 
+
+## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-## Markdown
+### Markdown
 
 - **Markdown** is a _lightweight_ and easy-to-use syntax for styling your writing. It includes conventions for
 
